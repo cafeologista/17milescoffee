@@ -1,0 +1,12 @@
+title: 17miles Coffee Roasters
+description: Crafting freshly roasted coffee with vibrant, balanced flavor.
+theme: minima
+markdown: kramdown
+
+url: "https://cafeologista.github.io"
+baseurl: "/17milescoffee"
+
+sass:
+  style: compressed
+
+show_downloads: false
